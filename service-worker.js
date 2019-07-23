@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RZFalcore/goit-react-hw-02-movies/precache-manifest.de49012f9c5a0c3620c0c68fc84f4c99.js"
+  "/RZFalcore/goit-react-hw-02-movies/precache-manifest.ad67e8f5bbb25a7d3fea294fdde506d4.js"
 );
 
 self.addEventListener('message', (event) => {
