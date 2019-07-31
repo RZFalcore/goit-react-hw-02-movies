@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RZFalcore/goit-react-hw-02-movies/static/css/main.2ff5df14.chunk.css",
-    "main.js": "/RZFalcore/goit-react-hw-02-movies/static/js/main.18c48b35.chunk.js",
-    "main.js.map": "/RZFalcore/goit-react-hw-02-movies/static/js/main.18c48b35.chunk.js.map",
-    "runtime~main.js": "/RZFalcore/goit-react-hw-02-movies/static/js/runtime~main.2b65f643.js",
-    "runtime~main.js.map": "/RZFalcore/goit-react-hw-02-movies/static/js/runtime~main.2b65f643.js.map",
-    "static/js/2.8fa3d35f.chunk.js": "/RZFalcore/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js",
-    "static/js/2.8fa3d35f.chunk.js.map": "/RZFalcore/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js.map",
-    "index.html": "/RZFalcore/goit-react-hw-02-movies/index.html",
-    "precache-manifest.ad67e8f5bbb25a7d3fea294fdde506d4.js": "/RZFalcore/goit-react-hw-02-movies/precache-manifest.ad67e8f5bbb25a7d3fea294fdde506d4.js",
-    "service-worker.js": "/RZFalcore/goit-react-hw-02-movies/service-worker.js",
-    "static/css/main.2ff5df14.chunk.css.map": "/RZFalcore/goit-react-hw-02-movies/static/css/main.2ff5df14.chunk.css.map"
+    "main.css": "/goit-react-hw-02-movies/static/css/main.2ff5df14.chunk.css",
+    "main.js": "/goit-react-hw-02-movies/static/js/main.18c48b35.chunk.js",
+    "main.js.map": "/goit-react-hw-02-movies/static/js/main.18c48b35.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js",
+    "runtime~main.js.map": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js.map",
+    "static/js/2.8fa3d35f.chunk.js": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js",
+    "static/js/2.8fa3d35f.chunk.js.map": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js.map",
+    "index.html": "/goit-react-hw-02-movies/index.html",
+    "precache-manifest.e73a6dcc949f85e440328eb292e1f3a4.js": "/goit-react-hw-02-movies/precache-manifest.e73a6dcc949f85e440328eb292e1f3a4.js",
+    "service-worker.js": "/goit-react-hw-02-movies/service-worker.js",
+    "static/css/main.2ff5df14.chunk.css.map": "/goit-react-hw-02-movies/static/css/main.2ff5df14.chunk.css.map"
   }
 }
